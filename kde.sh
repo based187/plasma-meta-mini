@@ -1,0 +1,2 @@
+#/bin/sh
+sudo pacman -S aurorae bluedevil breeze breeze-gtk drkonqi kde-cli-tools kde-gtk-config kdecoration kglobalacceld kinfocenter knighttime kpipewire kscreen kscreenlocker kwayland kwin layer-shell-qt libkscreen libksysguard libplasma milou plasma-browser-integration plasma-desktop plasma-disks plasma-nm plasma-pa powerdevil print-manager sddm-kcm spectacle systemsettings dolphin konsole                
